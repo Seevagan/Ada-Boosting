@@ -1,0 +1,25 @@
+Instructions:
+
+1) Use given input files for both Binary AdaBoosting and Real AdaBoosting program.
+2) For each input file create separate file for Binary AdaBoosting and Real AdaBoosting results.
+
+
+Example:
+For adaboost-1.dat create files with name 
+	1) <netid>_binary_1.text   e.g   xxx130030_binary_1.txt
+	2) <netid>_real_1.text
+
+For adaboost-2.dat create files with name 
+	1) <netid>_binary_2.text
+	2) <netid>_real_2.text
+	
+3) Please follow the same format for output files as specified in the output format file as outputs will be evaluated automatically
+4) Create a folder with your netid and copy 10 files and submit the folder to TA
+
+	Folder Structure:
+	
+		<netid>
+		--<netid>_binary_1.text
+		--<netid>_real_1.text
+		--<netid>_binary_2.text
+		--<netid>_real_2.text
