@@ -1,0 +1,13 @@
+<Last name>, <First name>
+
+Iteration 1
+Classifier h = I(x < 1.5)
+Error = 0.25
+Alpha = 0.32
+Normalization Factor Z = 0.91
+Pi after normalization = 0.071, 0.17
+Boosted Classifier f(x) = 0.32 * I(x < 1.5)
+Boosted Classifier Error = 0.30
+Bound on Error = 0.92
+
+Iteration 2

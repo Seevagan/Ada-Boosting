@@ -1,0 +1,13 @@
+<Last name>, <Frist name>
+
+Iteration 1
+Classifier h = I(x < 1.5)
+G error = 0.15
+C_Plus = 0.0, C_Minus = 5.71
+Normalization Factor Z = 0.91
+Pi after normalization = 0.50, 0.50, 0.00, 0.00
+f(x) = 0.00, 0.00, 7.71, 7.71
+Boosted Classifier Error = 0.25
+Bound on Error = 0.5
+
+Iteration 2

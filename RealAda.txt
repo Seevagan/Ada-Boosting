@@ -1,0 +1,52 @@
+Enter the file name
+G:\Graded HW 2/adaboost-1.dat
+
+Iteration 1
+Classifier h = I(x < 2.0)
+G error = 0.3535533905932738
+C_Plus = 7.3659008449191745 , C_Minus = -0.34657349028000256
+Normalization Factor Z = 0.70726489
+Pi after normalization = 0.00022355, 0.24994413, 0.24994413, 0.49988818
+f(x) = 7.36590084, -0.34657349, -0.34657349, -0.34657349
+Boosted Classifier Error = 0.25
+Bound on Error = 0.70726489
+
+Iteration 2
+Classifier h = I(x < 5.5)
+G error = 0.010571188226637534
+C_Plus = -3.8560288712973905 , C_Minus = 7.712362502715969
+Normalization Factor Z = 0.021365969999999998
+Pi after normalization = 0.49465716, 0.24743927, 0.24743927, 0.0104643
+f(x) = 3.50987197, -4.20260236, -4.20260236, 7.36578901
+Boosted Classifier Error = 0.0
+Bound on Error = 0.015111400421793299
+
+Iteration 3
+Classifier h = I(x < 2.0)
+G error = 0.07196219497848853
+C_Plus = 7.707102745341041 , C_Minus = -1.9281667702540446
+Normalization Factor Z = 0.14414681000000001
+Pi after normalization = 0.00154294, 0.24961544, 0.24961544, 0.49922617
+f(x) = 11.21697472, -6.13076913, -6.13076913, 5.43762224
+Boosted Classifier Error = 0.0
+Bound on Error = 0.0021782601654341586
+
+Iteration 4
+Classifier h = I(x < 5.5)
+G error = 0.027753977984915964
+C_Plus = -2.8896571889269382 , C_Minus = 7.711699905922757
+Normalization Factor Z = 0.05573138999999999
+Pi after normalization = 0.49797933, 0.24900581, 0.24900581, 0.00400905
+f(x) = 8.32731753, -9.02042632, -9.02042632, 13.14932215
+Boosted Classifier Error = 0.0
+Bound on Error = 1.2139746680127559E-4
+
+Iteration 5
+Classifier h = I(x < 2.0)
+G error = 0.044682809727690585
+C_Plus = 7.710449571463434 , C_Minus = -2.411022181054721
+Normalization Factor Z = 0.08958877
+Pi after normalization = 0.00249083, 0.24938036, 0.24938036, 0.49874845
+f(x) = 16.0377671, -11.4314485, -11.4314485, 10.73829997
+Boosted Classifier Error = 0.0
+Bound on Error = 1.0875849731842114E-5

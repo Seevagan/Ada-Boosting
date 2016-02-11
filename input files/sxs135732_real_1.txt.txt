@@ -1,0 +1,51 @@
+Senthilkumar Seevagan
+
+Iteration 1
+Classifier h = I(x < 2.75)
+G error = 0.25
+C_Plus = 0.0 , C_Minus = 7.712474335199177
+Normalization Factor Z = 0.5002236
+Pi after normalization = 0.4997765, 0.4997765, 0.0002235, 0.0002235
+f(x) = 0, 0, 7.71247434, 7.71247434
+Boosted Classifier Error = 0.25
+Bound on Error = 0.5002236
+
+Iteration 2
+Classifier h = I(x < 1.5)
+G error = 0.01494657470793894
+C_Plus = 7.712250785276757 , C_Minus = -3.509567097159766
+Normalization Factor Z = 0.030116699999999996
+Pi after normalization = 0.00742312, 0.49634389, 0.24811649, 0.24811649
+f(x) = 7.71225079, -3.5095671, 4.20290724, 4.20290724
+Boosted Classifier Error = 0.0
+Bound on Error = 0.015065084094119998
+
+Iteration 3
+Classifier h = I(x < 2.75)
+G error = 0.06069942550582172
+C_Plus = -2.1013281446310588 , C_Minus = 7.708693053839213
+Normalization Factor Z = 0.12162160999999999
+Pi after normalization = 0.49908088, 0.49908754, 0.00091579, 0.00091579
+f(x) = 5.61092265, -5.61089524, 11.91160029, 11.91160029
+Boosted Classifier Error = 0.0
+Bound on Error = 0.0018322397823122656
+
+Iteration 4
+Classifier h = I(x < 1.5)
+G error = 0.030234396910029476
+C_Plus = 7.711554369565062 , C_Minus = -2.80377406654342
+Normalization Factor Z = 0.060692199999999995
+Pi after normalization = 0.00368087, 0.49817308, 0.24907303, 0.24907303
+f(x) = 13.32247702, -8.41466931, 9.10782622, 9.10782622
+Boosted Classifier Error = 0.0
+Bound on Error = 1.1120266331605247E-4
+
+Iteration 5
+Classifier h = I(x < 2.75)
+G error = 0.042821844250097406
+C_Plus = -2.45388573158644 , C_Minus = 7.710616949957904
+Normalization Factor Z = 0.08586689
+Pi after normalization = 0.49869362, 0.49870701, 0.00129969, 0.00129969
+f(x) = 10.86859129, -10.86855504, 16.81844317, 16.81844317
+Boosted Classifier Error = 0.0
+Bound on Error = 9.548626858666513E-6

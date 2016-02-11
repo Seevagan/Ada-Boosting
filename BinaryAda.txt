@@ -1,0 +1,52 @@
+Enter the file name
+G:\Graded HW 2/adaboost-1.dat
+
+Iteration1
+Classifier h = I(x < 2.0)
+Error = 0.25
+Alpha = 0.5493061443340549
+Normalization Factor Z = 0.8660254037844386
+Pi after normalization = 0.16666666666666666, 0.16666666666666666, 0.16666666666666666, 0.5000000000000001
+Boosted Classifier f(x) = 0.5493061443340549 * I(x < 2.0)
+Boosted Classifier Error = 0.25
+Bound on Error = 0.8660254037844386
+
+Iteration2
+Classifier h = I(x > 5.5)
+Error = 0.16666666666666666
+Alpha = 0.8047189562170503
+Normalization Factor Z = 0.7453559924999299
+Pi after normalization = 0.5, 0.09999999999999999, 0.09999999999999999, 0.30000000000000004
+Boosted Classifier f(x) = 0.5493061443340549 * I(x < 2.0) +  0.8047189562170503 * I(x > 5.5)
+Boosted Classifier Error = 0.25
+Bound on Error = 0.6454972243679028
+
+Iteration3
+Classifier h = I(x < 2.0)
+Error = 0.30000000000000004
+Alpha = 0.4236489301936017
+Normalization Factor Z = 0.9165151389911681
+Pi after normalization = 0.35714285714285715, 0.07142857142857142, 0.07142857142857142, 0.5
+Boosted Classifier f(x) = 0.5493061443340549 * I(x < 2.0) +  0.8047189562170503 * I(x > 5.5) +  0.4236489301936017 * I(x < 2.0)
+Boosted Classifier Error = 0.25
+Bound on Error = 0.5916079783099617
+
+Iteration4
+Classifier h = I(x > 5.5)
+Error = 0.35714285714285715
+Alpha = 0.2938933324510595
+Normalization Factor Z = 0.9583148474999099
+Pi after normalization = 0.5, 0.05555555555555555, 0.05555555555555555, 0.3888888888888889
+Boosted Classifier f(x) = 0.5493061443340549 * I(x < 2.0) +  0.8047189562170503 * I(x > 5.5) +  0.4236489301936017 * I(x < 2.0) +  0.2938933324510595 * I(x > 5.5)
+Boosted Classifier Error = 0.25
+Bound on Error = 0.566946709513841
+
+Iteration5
+Classifier h = I(x < 2.0)
+Error = 0.3888888888888889
+Alpha = 0.2259925618715287
+Normalization Factor Z = 0.9749960430435691
+Pi after normalization = 0.40909090909090906, 0.04545454545454545, 0.04545454545454545, 0.5000000000000001
+Boosted Classifier f(x) = 0.5493061443340549 * I(x < 2.0) +  0.8047189562170503 * I(x > 5.5) +  0.4236489301936017 * I(x < 2.0) +  0.2938933324510595 * I(x > 5.5) +  0.2259925618715287 * I(x < 2.0)
+Boosted Classifier Error = 0.25
+Bound on Error = 0.5527707983925668
